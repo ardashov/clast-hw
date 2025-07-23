@@ -9,6 +9,8 @@
  - Настройте балансировку Round-robin на 4 уровне.
  - На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
+[конфигурационный файл haproxy](https://github.com/ardashov/clast-hw/blob/main/haproxy-1.cfg)
+
 ![Название скриншота 1](https://github.com/ardashov/clast-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)`
 
 ![Название скриншота 1](https://github.com/ardashov/clast-hw/blob/main/img/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201_1.png)`
